@@ -8,7 +8,7 @@ public void display()
 }
 public static void main(String args[])//nnl
 {
-	Inheritance3 sc= new Inheritance3();
+	Inheritance3 sc= new Inheritance3();//
 	sc.show();
 	sc.display();
 }
