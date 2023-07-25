@@ -3,7 +3,7 @@ package hellowWorld2;
 public class multi4 extends multi3{
 	public static void show2()
 	{
-		System.out.println("meet");
+		System.out.println("meet");//
 		
 	}
 
