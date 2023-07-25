@@ -11,7 +11,7 @@ public class Hierarcical3 extends Hierarchial{
 		Hierarcical3 sc= new Hierarcical3();
 		sc.show1();
 		sc.show();
-		Hierarchical2 ac=new Hierarchical2();
+		Hierarchical2 ac=new Hierarchical2();//jjj
 		ac.display();
 
 	}
